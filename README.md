@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @BoliSa
+- 👀 I’m interested in Frontend Development and "Soft" Basics in Java 
+- 🌱 I’m currently learning Java, JavaScript, SCSS/Sass
